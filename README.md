@@ -8,7 +8,7 @@ This project implements a real-time hand sign language recognition system using 
 - Displays predictions on the live camera feed with bounding boxes and annotations.
 - Provides a responsive and efficient real-time performance.
 
-##Workflow
+## Workflow
 
 1. **Dataset Creation**: Created a custom dataset for all 26 English letters, capturing hand landmarks for training.
 2. **Landmark Detection**: Used MediaPipe Hands to extract (x, y) coordinates of hand landmarks for feature generation.
